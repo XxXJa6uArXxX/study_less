@@ -1,0 +1,15 @@
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\study_less.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\study_less.AssemblyInfoInputs.cache
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\study_less.AssemblyInfo.cs
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\study_less.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\study_less.sourcelink.json
+C:\Users\valer\Desktop\study_less\bin\Debug\net8.0\study_less.exe
+C:\Users\valer\Desktop\study_less\bin\Debug\net8.0\study_less.deps.json
+C:\Users\valer\Desktop\study_less\bin\Debug\net8.0\study_less.runtimeconfig.json
+C:\Users\valer\Desktop\study_less\bin\Debug\net8.0\study_less.dll
+C:\Users\valer\Desktop\study_less\bin\Debug\net8.0\study_less.pdb
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\study_less.dll
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\refint\study_less.dll
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\study_less.pdb
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\study_less.genruntimeconfig.cache
+C:\Users\valer\Desktop\study_less\obj\Debug\net8.0\ref\study_less.dll
